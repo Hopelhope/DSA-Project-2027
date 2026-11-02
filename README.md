@@ -1,2 +1,25 @@
 # DSA-Project-2027
+
+# DSA Class Dcumentation
+
+## Project Topic: E Commerce Sales Analysis
+
+### Project Overview
+
+This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By anlysing the various parameters in the data we seek to gather enough insights to makereasonable decisions which then enable  us to tell compelling stories around our data from the insight  gotten and to know the best performance from our data.
+
+This documentation will enable us make better decision and tell a compelling story.
+
+### Data Sources
+
+The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+
+### Tools Used
+
+- Ms Excel for Data Cleaning
+- SQL Server (For Querying and Analysis)
+- Power BI (For creating a report)
+- Ms Power Point (For Presentation) 
+
+
 This is where i built my first portfolio while learning at the Incubator Hub
