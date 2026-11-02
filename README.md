@@ -23,6 +23,11 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
 ### Data Cleaning And Preparation
 
+In the initial phase of the Data cleaning and preparation, we perform the following action;
+1. Data Loading and Inspection
+2. Handling Missing variables
+3. Data Cleaning and Formatting
+
 
 
 This is where i built my first portfolio while learning at the Incubator Hub
