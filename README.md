@@ -16,10 +16,13 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
 ### Tools Used
 
-- Ms Excel for Data Cleaning
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com).
 - SQL Server (For Querying and Analysis)
 - Power BI (For creating a report)
-- Ms Power Point (For Presentation) 
+- Ms Power Point (For Presentation)
+
+### Data Cleaning And Preparation
+
 
 
 This is where i built my first portfolio while learning at the Incubator Hub
