@@ -28,6 +28,17 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 2. Handling Missing variables
 3. Data Cleaning and Formatting
 
+### Data Analytics
+
+This is where we include some basic lines of code or queries or even some of the DAX expression used during your analysis.
+
+Eg
+```
+SELECT A,B,C
+Where A>B
+
+
+
 
 
 This is where i built my first portfolio while learning at the Incubator Hub
